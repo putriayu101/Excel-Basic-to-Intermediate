@@ -1,5 +1,5 @@
 # Excel-Basic-to-Advanced
-Learning Excel from basic to advance✨
+Self Learning Excel from basic to advance✨
 
 ## 📊Excel Learning Repository
 This repository documents a structured learning journey of Microsoft Excel, organized from begginer to advanced level. 
