@@ -92,7 +92,12 @@ The dataset used in this project is **dummy data** and created solely for learni
 
 
 ## 📝NOTE
-This file will always be updated if additional material is required.  
+**This file will always be updated if additional material is required.**
+
+## 🌻Author
+Putri Ayu L.W
+📩Email: putriayulw10@gmail.com
+🔗LinkedIn: https://www.linkedin.com/in/putriayulichawardani
 
 
 
