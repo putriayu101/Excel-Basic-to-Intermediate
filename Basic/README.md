@@ -1,4 +1,4 @@
-# 📊 Basic Excel for Data Analysis
+# 📊 Basic Excel 
 This repository contains **fundamental Microsoft Excel topics** along with a **mini sales analysis portfolio** using **dummy data**. The project demonstrates proficiency in basic Excel functions, data cleaning, data processing, and data visualization for analytical purposes.
 
 
@@ -93,6 +93,7 @@ The dataset used in this project is **dummy data** and created solely for learni
 
 ## 📝NOTE
 **This file will always be updated if additional material is required.**
+**The RAW dataset is contained within the portfolio file**
 
 ## 🌻Author
 Putri Ayu L.W <br>
