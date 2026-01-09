@@ -95,7 +95,7 @@ The dataset used in this project is **dummy data** and created solely for learni
 **This file will always be updated if additional material is required.**
 
 ## 🌻Author
-Putri Ayu L.W
+Putri Ayu L.W <br>
 📩Email: putriayulw10@gmail.com <br>
 🔗LinkedIn: https://www.linkedin.com/in/putriayulichawardani
 
