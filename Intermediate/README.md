@@ -79,8 +79,8 @@ The dataset used in this project is **dummy data** and created solely for learni
 
 
 ## 📝 Notes
-* This file will always be updated if additional material is required.
-* The RAW dataset is contained within the portfolio file.
+* **This file will always be updated if additional material is required.**
+* **The RAW dataset is contained within the portfolio file.**
 
 
 ## 🌻Author 
