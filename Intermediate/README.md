@@ -34,8 +34,16 @@ Used to count data based on specific conditions.
 * Data-driven visuals for analysis and reporting
 
 
+### 🔹 Pivot Table
+* Filter Data
+* Pivot Chart
+* Slicer & Timeline
+* and other
+
+
 ## 📊 Portfolio Project: Sales Analysis
 In this section, a **simple sales analysis portfolio** is created using **Pivot Tables and Pivot Charts** in Microsoft Excel.
+
 
 ### 🔍 Analysis Performed
 - Total sales per category
