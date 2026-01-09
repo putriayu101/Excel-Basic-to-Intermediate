@@ -91,7 +91,7 @@ All visualizations are created using **Excel Charts** to generate clear and acti
 The dataset used in this project is **dummy data** and created solely for learning and portfolio purposes.
 
 
-##📝NOTE
+## 📝NOTE
 This file will always be updated if additional material is required.  
 
 
