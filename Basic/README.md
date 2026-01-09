@@ -54,7 +54,7 @@ Before analysis, the raw dataset is prepared through the following steps:
 * Preparing a clean dataset ready for analysis and visualization
   
 
-## 📈 Mini Portfolio: Sales Analysis (Dummy Data)
+## 📈 Mini Portfolio: Sales Analysis
 
 ### Objectives:
 To analyze sales performance based on category, region, and time using Excel.
