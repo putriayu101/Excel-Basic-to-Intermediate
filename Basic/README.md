@@ -1,5 +1,5 @@
 # 📊 Basic Excel 
-This repository contains **fundamental Microsoft Excel topics** along with a **mini sales analysis portfolio** using **dummy data**. The project demonstrates proficiency in basic Excel functions, data cleaning, data processing, and data visualization for analytical purposes.
+This self learning files contains **fundamental Microsoft Excel topics** along with a **mini sales analysis portfolio** using **dummy data**. The project demonstrates proficiency in basic Excel functions, data cleaning, data processing, and data visualization for analytical purposes.
 
 
 ## 🧩 Excel Topics Covered
