@@ -1,4 +1,4 @@
-# ✨Excel Intermediate
+# 🧩Excel Intermediate
 This self learning folder contains **intermediate-level Excel learning materials and practice files** with portfolio using dummy data. The project focusing on commonly used functions, data analysis techniques, and basic reporting using Pivot Tables and Pivot Charts.
 
 
