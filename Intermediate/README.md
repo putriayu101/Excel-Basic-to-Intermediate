@@ -1,5 +1,5 @@
 # ✨Excel Intermediate
-This folder contains **intermediate-level Excel learning materials and practice files**, focusing on commonly used functions, data analysis techniques, and basic reporting using Pivot Tables and Pivot Charts.
+This self learning folder contains **intermediate-level Excel learning materials and practice files** with portfolio using dummy data. The project focusing on commonly used functions, data analysis techniques, and basic reporting using Pivot Tables and Pivot Charts.
 
 
 ## 📘 Learning Topics
@@ -8,7 +8,7 @@ This folder contains **intermediate-level Excel learning materials and practice 
 * HLOOKUP
 * XLOOKUP
 * MATCH
-
+  
 Used for searching, mapping, and retrieving data across tables.
 
 
@@ -84,6 +84,8 @@ The dataset used in this project is **dummy data** and created solely for learni
 
 
 ## 🌻Author 
-
+Putri Ayu L.W <br>
+📩Email: putriayulw10@gmail.com <br>
+🔗LinkedIn: https://www.linkedin.com/in/putriayulichawardani
 
 
