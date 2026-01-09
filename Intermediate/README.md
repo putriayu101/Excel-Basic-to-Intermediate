@@ -1,8 +1,6 @@
 # ✨Excel Intermediate
 This folder contains **intermediate-level Excel learning materials and practice files**, focusing on commonly used functions, data analysis techniques, and basic reporting using Pivot Tables and Pivot Charts.
 
-The content in this section bridges fundamental Excel knowledge and more advanced analytical use cases.
-
 
 ## 📘 Learning Topics
 ### 🔹 Lookup & Reference Functions
@@ -76,12 +74,16 @@ After completing this section, the learner is able to:
 - Create simple yet structured analytical reports
 
 
+## 📂 Dataset
+The dataset used in this project is **dummy data** and created solely for learning and portfolio purposes.
+
+
 ## 📝 Notes
 * This file will always be updated if additional material is required.
 * The RAW dataset is contained within the portfolio file.
 
 
-## Author 
+## 🌻Author 
 
 
 
