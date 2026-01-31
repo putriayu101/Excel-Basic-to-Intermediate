@@ -31,7 +31,7 @@ Detailed lesrning topics are explained in the **README file inside each folder**
 ## 📝Notes 
 1. Each folder focused on a different learning level
 2. This repository will be updated as learning progresses
-3. If there are folder names other than **basic, intermediate, or advanced**, they are probably other foldders that store projects or other notes. Each folder will have a **README** files, explaining its contents
+3. If there are folder names other than **basic, intermediate, or advanced**, they are probably other folders that store projects or other notes. Each folder will have a **README** files, explaining its contents
 
 ## 🌻Author
 **Putri Ayu L.W** <br>
