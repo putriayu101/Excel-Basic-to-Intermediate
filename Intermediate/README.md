@@ -41,54 +41,12 @@ Used to count data based on specific conditions.
 * and other
 
 
-## 📊 Portfolio Project: Sales Analysis
-In this section, a **simple sales analysis portfolio** is created using **Pivot Tables and Pivot Charts** in Microsoft Excel.
-
-
-### 🔍 Analysis Performed
-- Total sales per category
-- Total sales per date
-- Sales target comparison (High vs Low)
-- Selling price trend (average price per unit)
-- Total sales per region
-- Product ranking
-- Total sales of each category per region
-
-
-## 🧹 Data Cleaning & Preprocessing
-Before analysis, the dataset was prepared using several data cleaning techniques, including:
-- Identifying and removing duplicate data
-- Handling missing or null values
-- Data normalization
-- Text formatting and standardization
-- General data consistency checks
-
-These steps ensure the data is accurate, clean, and ready for analysis.
-
-
 ## 🛠 Tools Used
 - Microsoft Excel
   - Pivot Tables
   - Pivot Charts
   - Excel Functions & Formulas
 
-
-## 🎯 Learning Outcome
-After completing this section, the learner is able to:
-- Use lookup and dynamic array functions effectively
-- Clean and preprocess raw data in Excel
-- Analyze sales data using Pivot Tables
-- Build clear and meaningful Pivot Charts
-- Create simple yet structured analytical reports
-
-
-## 📂 Dataset
-The dataset used in this project is **dummy data** and created solely for learning and portfolio purposes.
-
-
-## 📝 Notes
-* **This file will always be updated if additional material is required.**
-* **The RAW dataset is contained within the portfolio file.**
 
 
 ## 🌻Author 
