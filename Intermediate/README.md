@@ -48,6 +48,16 @@ Used to count data based on specific conditions.
   - Excel Functions & Formulas
 
 
+## 🎯 Key Takeaways
+After completing this section, the learner is able to:
+  - Apply intermediate Excel formulas and functions for data analysis
+  - Perform structured and conditional data calculations
+  - Clean, standardize, and prepare datasets for analysis
+  - Use logical and lookup (`VLOOKUP`, `XLOOKUP`, `HLOOKUP` functions to support analytical decision-making
+
+## 📝NOTE
+**This file will always be updated if additional material is required.**
+
 
 ## 🌻Author 
 Putri Ayu L.W <br>
