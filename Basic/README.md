@@ -61,8 +61,3 @@ After completing this section, the learner is able to:
 **This file will always be updated if additional material is required.**
 
 
-## 🌻Author
-Putri Ayu L.W <br>
-📩Email: putriayulw10@gmail.com <br>
-🔗LinkedIn: https://www.linkedin.com/in/putriayulichawardani
-
