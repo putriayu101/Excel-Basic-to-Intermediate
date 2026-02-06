@@ -25,7 +25,7 @@ Detailed lesrning topics are explained in the **README file inside each folder**
 ## 🚀How to Use
 1. Start from the **basic** folder
 2. Continue to **intermediate**
-3. Finish with **advanced**
+3. Finish with **advanced** (*processed*)
 4. Read each folder's **README** for detailed topics
 
 ## 📝Notes 
