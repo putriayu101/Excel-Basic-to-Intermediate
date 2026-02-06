@@ -8,7 +8,6 @@ This self learning folder contains **intermediate-level Excel learning materials
 * HLOOKUP
 * XLOOKUP
 * MATCH
-  
 Used for searching, mapping, and retrieving data across tables.
 
 
@@ -18,13 +17,11 @@ Used for searching, mapping, and retrieving data across tables.
 * FILTER
 * RANDARRAY
 * Dynamics array
-
 Used to create flexible and dynamic outputs without manual copying.
 
 
 ### 🔹 Conditional Counting
 * COUNTIF
-
 Used to count data based on specific conditions.
 
 
@@ -56,6 +53,7 @@ After completing this section, the learner is able to:
   - Use logical and lookup (`VLOOKUP`, `XLOOKUP`, `HLOOKUP` functions to support analytical decision-making
 
 ## 📝NOTE
-**This file will always be updated if additional material is required.**
+- **This file will always be updated if additional material is required.**
+- **File: Intermediate-Excel-Worksheet2 is a support file for the main file Intermediate-Excel**
 
 
