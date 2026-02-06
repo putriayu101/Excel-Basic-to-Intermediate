@@ -54,6 +54,6 @@ After completing this section, the learner is able to:
 
 ## 📝NOTE
 - **This file will always be updated if additional material is required.**
-- **File: Intermediate-Excel-Worksheet2 is a support file for the main file Intermediate-Excel**
+- **File: *Intermediate-Excel-Worksheet2* is a support file for the main file *Intermediate-Excel***
 
 
