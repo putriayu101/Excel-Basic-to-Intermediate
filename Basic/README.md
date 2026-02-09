@@ -1,5 +1,5 @@
 # 📊 Basic Excel 
-This self learning folder contains **basic Excel learning materials** focused on building a strong foundation in spreadsheet usage, formulas, and data formatting.
+This self learning folder contains **basic Excel learning materials** focused on building a strong foundation in formulas and data formatting.
 
 
 ## 🧩 Excel Topics Covered
