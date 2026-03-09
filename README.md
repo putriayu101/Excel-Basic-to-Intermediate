@@ -1,8 +1,8 @@
-# Excel-Basic-to-Advanced
-Self Learning Excel from basic to advance✨
+# Excel-Basic-to-Intermediate
+Self Learning Excel from basic to intermediate✨
 
 ## 📊Excel Learning Repository
-This repository documents a structured learning journey of Microsoft Excel, organized from begginer to advanced level. 
+This repository documents a structured learning journey of Microsoft Excel.
 
 It is designed for: 
 1. Self-learning and skill development
@@ -25,13 +25,12 @@ Detailed lesrning topics are explained in the **README file inside each folder**
 ## 🚀How to Use
 1. Start from the **basic** folder
 2. Continue to **intermediate**
-3. Finish with **advanced** (*processed*)
 4. Read each folder's **README** for detailed topics
 
 ## 📝Notes 
 1. Each folder focused on a different learning level
 2. This repository will be updated as learning progresses
-3. If there are folder names other than **basic, intermediate, or advanced**, they are probably other folders that store projects or other notes. Each folder will have a **README** files, explaining its contents
+3. If there are folder names other than **basic and intermediate** they are probably other folders that store projects or other notes. Each folder will have a **README** files, explaining its contents
 
 ## 🌻Author
 **Putri Ayu L.W** <br>
